@@ -63,10 +63,5 @@ Python, NLTK, Vader Sentiment Analyzer, API integration
 
 ---
 
-## License:
-This repository is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## Author:
-[Your Name]
+Jai Vardhan Mahiwal
